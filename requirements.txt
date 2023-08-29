@@ -1,6 +1,6 @@
-azure-ai-formrecognizer==3.1.0
-azure-core==1.23.0
-matplotlib==3.4.3
-PyMuPDF==1.18.15
-streamlit==1.6.0
-wordcloud==1.10.3
+azure-ai-formrecognizer
+azure-core
+matplotlib
+PyMuPDF
+streamlit
+wordcloud
