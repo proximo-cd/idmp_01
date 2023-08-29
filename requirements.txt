@@ -4,3 +4,4 @@ matplotlib
 PyMuPDF
 streamlit
 wordcloud
+aiohttp
