@@ -1,6 +1,7 @@
 import streamlit as st
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
+import aiohttp
 import io
 import fitz  # PyMuPDF
 import asyncio
